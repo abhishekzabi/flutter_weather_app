@@ -16,3 +16,5 @@ This project demonstrates how to integrate third-party APIs, handle asynchronous
 
 
 ![GridArt_20240801_225935585](https://github.com/user-attachments/assets/4d5b0e80-abe5-4384-a9f6-3e7be1402ec9)
+
+[Download APK] https://github.com/abhishekzabi/flutter_weather_app/blob/main/app-release.apk
